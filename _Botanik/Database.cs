@@ -19,5 +19,10 @@ namespace _Botanik
         public static List<string> TimeOfWatering = new List<string>();
         public static List<string> AmountOfWatering = new List<string>();
         public static List<string> Litres = new List<string>();
+        // Данные о поливе
+        public static List<string> PName = new List<string>();
+        public static List<string> PTime = new List<string>();
+        public static List<string> PWatr = new List<string>();
+        public static List<string> PLitr = new List<string>();
     }
 }
